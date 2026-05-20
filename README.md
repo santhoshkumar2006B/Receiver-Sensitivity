@@ -32,6 +32,8 @@ Receiver specifications:
 Using the formulas above, calculate the receiver sensitivity.
 
 ---
+<img width="898" height="1600" alt="image" src="https://github.com/user-attachments/assets/60c48887-a926-4917-974f-e120c8d8c824" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b37ef3a6-faf9-474c-8229-320eb6cc868b" />
 
 ## Layout
 The simulation layout consists of:
